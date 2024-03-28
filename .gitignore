@@ -1,0 +1,14 @@
+.vscode/
+node_modules/
+.idea/
+coverage/
+*.jpg
+user.js
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
